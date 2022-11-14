@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Matt&#39;s Blog</title>
+    <link>https://jansemat.github.io/</link>
+    <description>Recent content on Matt&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Nov 2022 11:18:33 -0800</lastBuildDate><atom:link href="https://jansemat.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post Title</title>
+      <link>https://jansemat.github.io/posts/post1/</link>
+      <pubDate>Mon, 14 Nov 2022 11:18:33 -0800</pubDate>
+      
+      <guid>https://jansemat.github.io/posts/post1/</guid>
+      <description>Some content
+def main(): print(&amp;#34;nice&amp;#34;) </description>
+    </item>
+    
+  </channel>
+</rss>
